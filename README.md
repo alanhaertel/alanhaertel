@@ -19,4 +19,4 @@ I specialize in creating powerful web apps that involve complex calculations.
 
 ### My GitHub Stats
 
-<img alt="alanhaertel" src="https://github-readme-stats.vercel.app/api/?username=alanhaertel&show_icons=true&include_all_commits=true&count_private=true&theme=merko&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="130px"/><img alt="alanhaertel" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanhaertel&langs_count=8&layout=compact&theme=merko&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="130px"/>
+<img alt="alanhaertel" src="https://github-readme-stats.vercel.app/api/?username=alanhaertel&show_icons=true&include_all_commits=true&count_private=true&theme=merko&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="150px"/><img alt="alanhaertel" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanhaertel&langs_count=8&layout=compact&theme=merko&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="150px"/>
